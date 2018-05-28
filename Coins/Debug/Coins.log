@@ -1,0 +1,8 @@
+﻿  Coins.cpp
+c:\users\hxh\documents\visual studio 2015\projects\数字图像处理\13_coins_fast_class\coins\rotate.h(33): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\hxh\documents\visual studio 2015\projects\数字图像处理\13_coins_fast_class\coins\rotate.h(34): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\hxh\documents\visual studio 2015\projects\数字图像处理\13_coins_fast_class\coins\rotate.h(35): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\hxh\documents\visual studio 2015\projects\数字图像处理\13_coins_fast_class\coins\rotate.h(36): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\hxh\documents\visual studio 2015\projects\数字图像处理\13_coins_fast_class\coins\rotate.h(49): warning C4244: “=”: 从“double”转换到“BYTE”，可能丢失数据
+  Coins.vcxproj -> C:\Users\HXH\Documents\Visual Studio 2015\Projects\数字图像处理\13_Coins_Fast_Class\Debug\Coins.exe
+  Coins.vcxproj -> C:\Users\HXH\Documents\Visual Studio 2015\Projects\数字图像处理\13_Coins_Fast_Class\Debug\Coins.pdb (Full PDB)
